@@ -1,0 +1,6 @@
+{
+  "name": "Truth and Dare Game",
+  "description": "A fun party game where players spin a virtual wheel to get a truth question or a dare task based on selected categories. Features dynamic question generation using AI for endless fun.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
